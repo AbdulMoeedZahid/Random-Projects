@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/root1/COP3514_Projects/Python Projects and Automation",
+      "program": "/Users/root1/COP3514_Projects/Python Projects and Automation/build/Debug/outDebug"
+    }
+  ]
+}
